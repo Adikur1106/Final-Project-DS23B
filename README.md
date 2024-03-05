@@ -9,7 +9,7 @@ Proyek ini menggunakan dataset [Stroke Prediction Dataset](https://www.kaggle.co
 
 ## 📌Tujuan
 - Memprediksi kemungkinan seseorang mengalami stroke berdasarkan faktor-faktor kesehatan.
-- Menampilkan performa model prediksi dengan menggunakan metrik evaluasi yang tepat seperti akurasi, presisi, recall, dan F1-score.
+- Menampilkan performa model prediksi dengan menggunakan metrik evaluasi yang tepat seperti akurasi, presisi, recall, dan F1-score, confusion matrix, ROC-AUC.
 - Membuat visualisasi untuk memahami faktor-faktor yang berkontribusi pada prediksi stroke.
 
 ## 📌Model Prediksi
